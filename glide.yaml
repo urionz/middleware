@@ -1,0 +1,5 @@
+package: github.com/urionz/middleware
+import:
+- package: github.com/gin-gonic/gin
+  version: ^1.2.0
+- package: github.com/urionz/store
